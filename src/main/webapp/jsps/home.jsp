@@ -10,8 +10,13 @@
 </head>
 <body>
 <h1 align="center">Landmark Technology - Leaders in Software Delivery and DevOps Automation</h1>
-<h2 align="center"> Welcome to Landmark Technology.......We have a demo on DevOps E Degree with Linux and AWS  on Sunday Oct 9, 2022 at 3PM EST for our new batch. 
-	Landmark Technology Tesla web application project2. 
+<h2 align="center"> README.md from tesla-app >>>> tesla-app-groovyscript
+I folked this directory from Prof's Landmark repo. I deleted the old pom.xml file cos it did not have the tool to run sonar. 
+	Thus failed In this newly copied pom.xml file, I changed the IP address to my private IP. 
+	I'll try to see if it will work. Sonarqube test failed - Ip or url not found 
+	6/27/23 7:15am I got Sonarqube server running, In pom.xml file - I change my IP from private to public. 
+	Then re-run the build for jenkinsfile & it was SUCCESSFUL. 
+	 
 	</h2>
 	<h2 align="center" >DevOps is good. JESUS IS LORD. I AM BLESSED. Production</h2>
 <hr>
